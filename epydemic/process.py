@@ -17,7 +17,7 @@
 # You should have received a copy of the GNU General Public License
 # along with epydemic. If not, see <http://www.gnu.org/licenses/gpl.html>.
 
-from __future__ import annotations            # needed to solve circular imports
+# from __future__ import annotations            # needed to solve circular imports
 from epydemic import Locus, Node, Edge, Element
 from networkx import Graph
 from typing import Dict, List, Tuple, Any, Callable, Iterable, Union
